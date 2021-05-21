@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**🔭 I’m currently working on**
+
 <p align="center">
-<b>Gopher</b>
-•
-<b>Pythonor</b>
-•
-<b>Data analyst</b>
-•
-<b>(Neo)Vimer</b>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" />
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
+<img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
 </p>
+
+**🤔Always have some weird ideas**
