@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg" />
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
 </p>
-
 
 **🤔Always have some weird ideas**
