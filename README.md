@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **🔭 I’m currently working on**
 
-<p align="center">
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
