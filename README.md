@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🔭 I’m currently working on**
+**🔭 I’m currently learning**
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
